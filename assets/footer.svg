@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="Thanks for visiting">
+<defs>
+  <linearGradient id="w" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient>
+  <style>
+    text{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+    .w1{animation:drift 9s ease-in-out infinite alternate}
+    .w2{animation:drift 12s ease-in-out infinite alternate-reverse}
+    @keyframes drift{from{transform:translateX(-40px)}to{transform:translateX(40px)}}
+  </style>
+</defs>
+<g transform="translate(0,0)">
+  <path class="w1" d="M-80 70 C 150 20, 350 120, 600 70 S 1050 20, 1280 70 L1280 140 L-80 140 Z" fill="url(#w)" fill-opacity="0.35"/>
+  <path class="w2" d="M-80 90 C 200 50, 400 130, 650 90 S 1000 50, 1280 90 L1280 140 L-80 140 Z" fill="url(#w)" fill-opacity="0.55"/>
+  <path d="M0 110 C 250 85, 450 135, 700 110 S 1000 90, 1200 112 L1200 140 L0 140 Z" fill="url(#w)"/>
+</g>
+<text x="600" y="62" text-anchor="middle" font-size="22" font-weight="600" fill="#e2e8f0">Thanks for stopping by. Let's build something intelligent together.</text>
+</svg>
