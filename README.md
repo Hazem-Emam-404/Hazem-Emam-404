@@ -121,7 +121,7 @@ I train and ship neural networks in both major frameworks, not just call pretrai
 > #### 🩺 [ClinicianMind AI](https://github.com/Hazem-Emam-404/ClinicianMind-AI)
 > Evidence-grounded clinical decision support for adult hypertension, built at the Instant & Orange AI Hackathon (top 5 teams). Answers clinician questions from WHO 2021 and NICE NG136 guidelines with chunk-level citations, two-stage retrieval, safety guardrails (emergency and prompt-injection detection, refusal when grounding is weak) and structured JSON output.
 >
-> ![Python](https://img.shields.io/badge/Python-7c3aed?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-7c3aed?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-7c3aed?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-7c3aed?style=flat-square) ![Cross-Encoder](https://img.shields.io/badge/Cross--Encoder-7c3aed?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-7c3aed?style=flat-square) ![React](https://img.shields.io/badge/React-7c3aed?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-7c3aed?style=flat-square)
+> ![Python](https://img.shields.io/badge/Python-7c3aed?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-7c3aed?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-7c3aed?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-7c3aed?style=flat-square) ![Cross-Encoder](https://img.shields.io/badge/Cross--Encoder-7c3aed?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-7c3aed?style=flat-square) ![React](https://img.shields.io/badge/React-7c3aed?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-7c3aed?style=flat-square) &nbsp; ⭐ **1**
 
 > #### 🔊 [Machine Fault Recognition](https://github.com/Hazem-Emam-404/Machine-Fault-Recognition)
 > Deep learning for predictive maintenance: classifies machine sounds into six normal and abnormal states across three machine types. Fine-tunes a pretrained CNN14 (PANNs) on log-Mel spectrograms with focal loss and weighted sampling, reaching 95.84% test accuracy (91.31% baseline). Leakage-free splits, ONNX export, Docker and a Hugging Face demo.
@@ -149,12 +149,12 @@ I train and ship neural networks in both major frameworks, not just call pretrai
 > #### 🚦 [SignGuard](https://github.com/Hazem-Emam-404/sign-road_detection-mobile-app)
 > A traffic-sign detection and driver-education app. Detects road signs live from the camera or from gallery images, with an interactive learning section (quizzes and a sign catalog) and spoken feedback in Arabic and English.
 >
-> ![Flutter](https://img.shields.io/badge/Flutter-0ea5e9?style=flat-square) ![Dart](https://img.shields.io/badge/Dart-0ea5e9?style=flat-square) ![Riverpod](https://img.shields.io/badge/Riverpod-0ea5e9?style=flat-square) ![Dio](https://img.shields.io/badge/Dio-0ea5e9?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-0ea5e9?style=flat-square)
+> ![Flutter](https://img.shields.io/badge/Flutter-0ea5e9?style=flat-square) ![Dart](https://img.shields.io/badge/Dart-0ea5e9?style=flat-square) ![Riverpod](https://img.shields.io/badge/Riverpod-0ea5e9?style=flat-square) ![Dio](https://img.shields.io/badge/Dio-0ea5e9?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-0ea5e9?style=flat-square) &nbsp; ⭐ **1**
 
 > #### 💬 [Lite X](https://github.com/CUFE-Software-Engineering-Project/Lite_X-mobileApp)
 > A cross-platform X (Twitter) client built by a team of students: For You and Following feeds, posts, replies, reposts and bookmarks, profiles, real-time chat over WebSockets, push notifications, search and trends, in English and Arabic.
 >
-> ![Flutter](https://img.shields.io/badge/Flutter-0ea5e9?style=flat-square) ![Riverpod](https://img.shields.io/badge/Riverpod-0ea5e9?style=flat-square) ![Socket.IO](https://img.shields.io/badge/Socket.IO-0ea5e9?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-0ea5e9?style=flat-square) ![Hive](https://img.shields.io/badge/Hive-0ea5e9?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-0ea5e9?style=flat-square)
+> ![Flutter](https://img.shields.io/badge/Flutter-0ea5e9?style=flat-square) ![Riverpod](https://img.shields.io/badge/Riverpod-0ea5e9?style=flat-square) ![Socket.IO](https://img.shields.io/badge/Socket.IO-0ea5e9?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-0ea5e9?style=flat-square) ![Hive](https://img.shields.io/badge/Hive-0ea5e9?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-0ea5e9?style=flat-square) &nbsp; ⭐ **1**
 <!-- SW-PROJECTS:END -->
 
 <div align="right"><a href="#top">⬆ back to top</a></div>
@@ -172,7 +172,7 @@ I train and ship neural networks in both major frameworks, not just call pretrai
 > #### 🧳 [TripSync](https://github.com/Hazem-Emam-404/TripSync)
 > A tour-management platform for admins, travellers and travel agencies: trip booking, agency profiles and reviews, a rewards points system, travel blogs and an admin dashboard with analytics.
 >
-> ![React](https://img.shields.io/badge/React-f59e0b?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-f59e0b?style=flat-square) ![Express](https://img.shields.io/badge/Express-f59e0b?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f59e0b?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-f59e0b?style=flat-square)
+> ![React](https://img.shields.io/badge/React-f59e0b?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-f59e0b?style=flat-square) ![Express](https://img.shields.io/badge/Express-f59e0b?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f59e0b?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-f59e0b?style=flat-square) &nbsp; ⭐ **1**
 
 > #### 👾 [Alien Invasion](https://github.com/Hazem-Emam-404/Alien_Invasion)
 > A console war simulation between Earth, Alien and Ally armies, each with its own unit types and abilities. Interactive and silent modes, built on hand-made data structures (linked lists, queues, priority queues and stacks).
