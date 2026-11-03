@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" alt="Hazem Ahmed Emam - AI Engineer" width="100%"/>
+<img src="assets/banner.svg" alt="Hazem Emam - AI Engineer" width="100%"/>
 
 <br/>
 
