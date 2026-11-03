@@ -1,0 +1,110 @@
+{
+  "_help": "To add a project, paste its GitHub link into the matching list below (a plain URL is enough). Optional fields per project: title, description, stack (list), emoji. Any repo that has one of the section's topics on GitHub is also added automatically.",
+  "sections": [
+    {
+      "marker": "AI-PROJECTS",
+      "accent": "7c3aed",
+      "topics": ["ai-project"],
+      "projects": [
+        {
+          "url": "https://github.com/Hazem-Emam-404/LexSportiva-AI",
+          "title": "LexSportiva-AI",
+          "emoji": "⚖️",
+          "description": "An AI sports referee. A multi-sport RAG assistant that answers rules questions from official rulebooks (IFAB, FIBA, IHF, ITF, IBA) with exact page citations and an in-app PDF viewer. Hybrid retrieval (BGE-M3 + BM25) fused with RRF, parent-child chunking, query rewriting and cross-encoder re-ranking, in English and Arabic.",
+          "stack": ["Python", "FastAPI", "ChromaDB", "BGE-M3", "BM25", "LlamaParse", "Groq", "Gemini", "Ollama", "React"]
+        },
+        {
+          "url": "https://github.com/Hazem-Emam-404/ClinicianMind-AI",
+          "title": "ClinicianMind AI",
+          "emoji": "🩺",
+          "description": "Evidence-grounded clinical decision support for adult hypertension, built at the Instant & Orange AI Hackathon (top 5 teams). Answers clinician questions from WHO 2021 and NICE NG136 guidelines with chunk-level citations, two-stage retrieval, safety guardrails (emergency and prompt-injection detection, refusal when grounding is weak) and structured JSON output.",
+          "stack": ["Python", "FastAPI", "LangChain", "ChromaDB", "Cross-Encoder", "Groq", "React", "Docker"]
+        },
+        {
+          "url": "https://github.com/Hazem-Emam-404/Machine-Fault-Recognition",
+          "title": "Machine Fault Recognition",
+          "emoji": "🔊",
+          "description": "Deep learning for predictive maintenance: classifies machine sounds into six normal and abnormal states across three machine types. Fine-tunes a pretrained CNN14 (PANNs) on log-Mel spectrograms with focal loss and weighted sampling, reaching 95.84% test accuracy (91.31% baseline). Leakage-free splits, ONNX export, Docker and a Hugging Face demo.",
+          "stack": ["PyTorch", "CNN14", "Log-Mel", "ONNX", "Docker", "Hugging Face"]
+        }
+      ]
+    },
+    {
+      "marker": "SW-PROJECTS",
+      "accent": "0ea5e9",
+      "topics": ["sw-project", "mobile-project"],
+      "projects": [
+        {
+          "url": "https://github.com/Hazem-Emam-404/Ejada-Intern-Project",
+          "title": "E-Commerce Microservices",
+          "emoji": "🛒",
+          "description": "A production-style e-commerce backend built as Spring Boot 3 microservices: Config Server, Eureka, API Gateway, and Auth (JWT), Shop, Inventory and Wallet services. Resilient inter-service calls with OpenFeign and circuit breakers, Outbox pattern for consistency, distributed tracing with Zipkin and Docker Compose.",
+          "stack": ["Java 21", "Spring Boot", "Spring Cloud", "PostgreSQL", "Resilience4j", "Docker"]
+        },
+        {
+          "url": "https://github.com/Hazem-Emam-404/Workspace.eg",
+          "title": "Workspace.eg",
+          "emoji": "🏢",
+          "description": "A coworking-space app for Egypt that connects freelancers and students with workspace owners. Real-time availability, transparent pricing, verified reviews, map-based discovery and full Arabic (RTL) and English support, built with Clean Architecture.",
+          "stack": ["Flutter", "Dart", "BLoC", "Supabase", "PostgreSQL", "Hive"]
+        },
+        {
+          "url": "https://github.com/Hazem-Emam-404/sign-road_detection-mobile-app",
+          "title": "SignGuard",
+          "emoji": "🚦",
+          "description": "A traffic-sign detection and driver-education app. Detects road signs live from the camera or from gallery images, with an interactive learning section (quizzes and a sign catalog) and spoken feedback in Arabic and English.",
+          "stack": ["Flutter", "Dart", "Riverpod", "Dio", "Computer Vision"]
+        },
+        {
+          "url": "https://github.com/CUFE-Software-Engineering-Project/Lite_X-mobileApp",
+          "title": "Lite X",
+          "emoji": "💬",
+          "description": "A cross-platform X (Twitter) client built by a team of students: For You and Following feeds, posts, replies, reposts and bookmarks, profiles, real-time chat over WebSockets, push notifications, search and trends, in English and Arabic.",
+          "stack": ["Flutter", "Riverpod", "Socket.IO", "Firebase", "Hive", "JWT"]
+        }
+      ]
+    },
+    {
+      "marker": "FACULTY-PROJECTS",
+      "accent": "f59e0b",
+      "topics": ["faculty-project", "ds-project"],
+      "projects": [
+        {
+          "url": "https://github.com/Hazem-Emam-404/Customer-Churn-Prediction-and-Analysis",
+          "title": "Customer Churn Prediction",
+          "emoji": "📉",
+          "description": "An end-to-end data science project that identifies customers likely to leave so a business can act early. Covers data exploration, feature engineering, model building and a final MLOps milestone for deployment.",
+          "stack": ["Python", "Machine Learning", "Data Analysis", "MLOps"]
+        },
+        {
+          "url": "https://github.com/Hazem-Emam-404/TripSync",
+          "title": "TripSync",
+          "emoji": "🧳",
+          "description": "A tour-management platform for admins, travellers and travel agencies: trip booking, agency profiles and reviews, a rewards points system, travel blogs and an admin dashboard with analytics.",
+          "stack": ["React", "Node.js", "Express", "PostgreSQL", "JWT"]
+        },
+        {
+          "url": "https://github.com/Hazem-Emam-404/Alien_Invasion",
+          "title": "Alien Invasion",
+          "emoji": "👾",
+          "description": "A console war simulation between Earth, Alien and Ally armies, each with its own unit types and abilities. Interactive and silent modes, built on hand-made data structures (linked lists, queues, priority queues and stacks).",
+          "stack": ["C++", "Data Structures", "OOP"]
+        },
+        {
+          "url": "https://github.com/Hazem-Emam-404/PaintForKids",
+          "title": "Paint For Kids",
+          "emoji": "🎨",
+          "description": "A paint-and-play desktop app for children: draw and drag shapes with undo and redo, record and replay sessions, save and load drawings, then switch to play mode for colour and shape matching games.",
+          "stack": ["C++", "OOP", "GUI"]
+        },
+        {
+          "url": "https://github.com/Hazem-Emam-404/Arkanoid",
+          "title": "Arkanoid",
+          "emoji": "🧱",
+          "description": "The classic Breakout arcade game written in Assembly: paddle control, ball physics, bricks, scoring, lives and multiple levels with rising difficulty.",
+          "stack": ["Assembly", "Low-level Programming"]
+        }
+      ]
+    }
+  ]
+}
